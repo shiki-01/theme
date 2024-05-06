@@ -1,0 +1,21 @@
+{
+  "name": "shiki",
+  "displayName": "shiki",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "shiki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shiki-color-theme.json"
+      }
+    ]
+  }
+}
